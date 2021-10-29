@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matheusandrean
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Estatisc, Machine LEarning, DBA, BI, Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Estatisc, Machine Learning, DBA, BI.
+- 💞️ I'm looking to collaborate in further development of the Python language and of course, in my learning and professional development.
 - 📫 How to reach me ...
 
 <!---
